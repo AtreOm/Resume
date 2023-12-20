@@ -1,10 +1,3 @@
-/**
-*  Template Name: Kelvin
-*  Template URL: https://templatemag.com/kelvin-bootstrap-resume-template/
-*  Author: TemplateMag.com
-*  License: https://templatemag.com/license/
-*/
-
 body {
   background-color: #f2f2f2;
   font-family: "Lato";
@@ -84,7 +77,8 @@ hr {
 }
 
 #section-topbar a {
-  color: #fff;
+  color: #ff6666;
+  /*#fff*/
 }
 
 #topbar-inner {
@@ -236,24 +230,6 @@ SECTION WRAPS
 #footwrap i {
   padding-right: 8px;
   color: #1abc9c;
-}
-
-/* Copyright Wrap */
-
-#copyrights {
-  background: #222222;
-  padding: 20px 0;
-  text-align: center;
-  color: #fff;
-  font-size: 16px;
-}
-
-#copyrights p {
-  margin: 0 0 5px 0;
-}
-
-.credits {
-  color: #999;
 }
 
 /* Global Values */
