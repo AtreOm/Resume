@@ -120,20 +120,20 @@ By default, top navigation bar uses "fixed" position
 }
 
 #section-topbar ul#nav a:focus {
-  background: #ff6666;
+  background: #051650;
   text-decoration: none;
-  border-left: 1px solid #ff6666;
+  border-left: 1px solid #051650;
 }
 
 #section-topbar ul#nav a:hover {
   background: #222;
   text-decoration: none;
-  border-left: 1px solid #ff6666;
+  border-left: 1px solid #051650;
 }
 
 #section-topbar ul#nav .active a {
   background: #44bbaa;
-  border-left: 1px solid #ff6666;
+  border-left: 1px solid #051650;
 }
 
 #section-topbar ul#nav .active a:hover {
