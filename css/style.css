@@ -77,12 +77,13 @@ hr {
 }
 
 #section-topbar a {
-  color: #ff6666;
+  color: #fff;
   /*#fff*/
 }
 
 #topbar-inner {
-  background: #111;
+  background: #ff6666;
+  /*#111*/
   line-height: 0;
   text-align: center;
 }
